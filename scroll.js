@@ -28,5 +28,5 @@ document.addEventListener('scroll',()=>{
         }
     })
 
-    document.lastScrollPosition= window.pageYOffset;
+    document.lastScrollPosition= window.pageYOffset
 })
